@@ -1,0 +1,6 @@
+hdms3.App=org.springframework.stereotype.Component
+hdms3.GreetingController=org.springframework.stereotype.Component
+repository.Adminrepository=org.springframework.stereotype.Component
+repository.Doctorrepository=org.springframework.stereotype.Component
+repository.Employeerepository=org.springframework.stereotype.Component
+repository.FDrepository=org.springframework.stereotype.Component
